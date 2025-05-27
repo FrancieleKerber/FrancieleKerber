@@ -13,8 +13,4 @@ There’s always a cat in the code (and on the lap, too).
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FrancieleKerber/FrancieleKerber/output/pacman-contribution-graph.svg">
 </picture>
 
-<div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieleKerber&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-    </div>
-
 Just nod if you can hear me 👋
